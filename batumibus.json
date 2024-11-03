@@ -2,83 +2,103 @@
   "routeList": [
     {
       "id": "60acde9ffcc7a224160c587c",
-      "title": "1"
+      "title": "1",
+      "color":"Blue"
     },
     {
       "id": "648994879327c728200b3f52",
-      "title": "1a"
+      "title": "1a",
+      "color":"Navy Blue"
     },
     {
       "id": "5ed2bd4f657784b5a98a8c7e",
-      "title": "2"
+      "title": "2",
+      "color":"Yellow"
     },
     {
       "id": "5ed6077c340f60873ff9e1be",
-      "title": "2a"
+      "title": "2a",
+      "color":"Orange"
     },
     {
       "id": "5ed60865340f60873ff9e1bf",
-      "title": "3"
+      "title": "3",
+      "color":"Red"
     },
     {
       "id": "64870922cdc348e19967159a",
-      "title": "4"
+      "title": "4",
+      "color":"Green"
     },
     {
       "id": "5f9f0704eb714303efce5631",
-      "title": "6"
+      "title": "6",
+      "color":"Purple"
     },
     {
       "id": "656d8151740e475f7b8563b0",
-      "title": "7"
+      "title": "7",
+      "color":"Pink"
     },
     {
       "id": "5ed60aa5340f60873ff9e1c4",
-      "title": "8"
+      "title": "8",
+      "color":"Lime"
     },
     {
       "id": "5ed60b25340f60873ff9e1c5",
-      "title": "9"
+      "title": "9",
+      "color":"Indigo"
     },
     {
       "id": "64901c96e25b40c6e2150b34",
-      "title": "10"
+      "title": "10",
+      "color":"Cyan"
     },
     {
       "id": "5ed60be3340f60873ff9e1c6",
-      "title": "10a"
+      "title": "10a",
+      "color":"Teal"
     },
     {
       "id": "64886a7cc9f310bbf583c1f9",
-      "title": "11"
+      "title": "11",
+      "color":"Gold"
     },
     {
       "id": "5ed60d70340f60873ff9e1c8",
-      "title": "12"
+      "title": "12",
+      "color":"Maroon"
     },
     {
       "id": "648996c69327c728200b3f63",
-      "title": "13"
+      "title": "13",
+      "color":"Silver"
     },
     {
       "id": "615182e95dc186cad86e0fd2",
-      "title": "14"
+      "title": "14",
+      "color":"Olive"
     },
     {
       "id": "5ed60e97340f60873ff9e1cb",
-      "title": "15"
+      "title": "15",
+      "color":"Aquamarine"
     },
     {
       "id": "5ed60f32340f60873ff9e1cc",
-      "title": "16"
+      "title": "16",
+      "color":"Lavender"
     },
     {
       "id": "66de91d980df11324f155751",
-      "title": "20"
+      "title": "20",
+      "color":"Peach"
     },
     {
       "id": "6724af35cabac5486baeb625",
-      "title": "27"
+      "title": "27",
+      "color":"Emerald"
     }
 ]
 }
